@@ -1,0 +1,15 @@
+{
+  "repositories": {
+    "sample_codebase": {
+      "id": "sample_codebase",
+      "name": "sample_codebase",
+      "branch": "main",
+      "lastAnalyzed": "",
+      "fileCount": 3,
+      "language": "Python",
+      "description": "Uploaded codebase archive (sample_codebase.zip)"
+    }
+  },
+  "reports": {},
+  "jobs": {}
+}
